@@ -27,3 +27,4 @@ En el archivo "Codigo.ipynb" se utiliza una lista con distintos años para proba
 
 
 ## Conclusiones
+La efectividad del modelo no es buena, se intento hacer varios ajustes con el alpha o el numero de iteraciones en el algoritmo, pero nada de ello ayudo a mejorar el resultado esperado.
